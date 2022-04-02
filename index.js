@@ -1,4 +1,4 @@
-// Requiring express in our server
+
 const express = require('express');
 const app = express();
 const users = require("./data");
